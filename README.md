@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 There is no Ctrl-Z in life.<br>📚💻 Information Technology Student<br>5/9<br><br>🐧 Linux<br>☕ Java<br>🪱 Python<br>🗄️ SQL<br>🐟⚠️ ☠ IT Security
+😎 There is no Ctrl-Z in life.<br>📚💻 Information Technology Student<br>8/9<br><br>🐧 Linux<br>☕ Java<br>🪱 Python<br>🗄️ SQL<br>🐟⚠️ ☠ IT Security
 
 
 ## 🌐 Socials:
